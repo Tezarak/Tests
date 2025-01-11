@@ -1,0 +1,1 @@
+print("Yo wassup world? Writing this from my fams house in vs, just chillin in the crib innit");
